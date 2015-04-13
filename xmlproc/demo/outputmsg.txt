@@ -1,0 +1,6 @@
+xmlproc version 0.70
+
+Parsing 'xmlproc/demo/testmsg.xml'
+E:xmlproc/demo/testmsg.xml:1:30: Construct started, but never completed
+E:xmlproc/demo/testmsg.xml:1:30: Premature document end, no root element
+Parse complete, 2 error(s) and 0 warning(s)
